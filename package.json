@@ -1,0 +1,24 @@
+{
+  "name": "japan",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-sass": "^4.1.0",
+    "sass": "^1.32.8"
+  },
+  "devDependencies": {
+    "fast-grid": "^0.2.5",
+    "gulp-css-glob": "^1.0.1",
+    "gulp-css-globbing": "^0.2.2",
+    "gulp-sass-glob": "^1.1.0"
+  }
+}
